@@ -1,2 +1,7 @@
 catboost_info/
 openfe_tmp_data.feather
+
+# Local generated files
+.DS_Store
+**/__pycache__/
+*.py[cod]
